@@ -1,1 +1,1 @@
-# Core-II-Wk-4
+# KNN and Naive Bayers Classification
